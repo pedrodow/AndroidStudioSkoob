@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ProjetoAvaliativo2" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#1da1f3</item>
+    </style>
+
+    <style name="Theme.ProjetoAvaliativo2" parent="Base.Theme.ProjetoAvaliativo2" />
+</resources>
