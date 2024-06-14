@@ -30,4 +30,10 @@
         android:name="com.example.projetoavaliativo2.PesquisarFragment"
         android:label="fragment_pesquisar"
         tools:layout="@layout/fragment_pesquisar" />
+    <fragment
+        android:id="@+id/fragment_pefil_amigo"
+        android:name="com.example.projetoavaliativo2.PefilAmigoFragment"
+        android:label="fragment_pefil_amigo"
+        tools:layout="@layout/fragment_pefil_amigo" />
+
 </navigation>
